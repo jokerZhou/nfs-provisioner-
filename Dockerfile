@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
+FROM anjia0532/google-containers.ingress-nginx.controller:v1.2.1
 MAINTAINER joker joker@163.com
